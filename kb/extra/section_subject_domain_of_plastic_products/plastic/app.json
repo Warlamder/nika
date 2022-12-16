@@ -1,0 +1,7 @@
+{
+    "version": 20200513,
+    "zip-command": "zip plastic.zip plastic\/app.json plastic\/entities\/*.json plastic\/intents\/*.json plastic\/traits\/*.json plastic\/utterances\/*.json plastic\/composer\/*.json",
+    "name": "plastic",
+    "lang": "en",
+    "timezone": "America\/Los_Angeles"
+}
